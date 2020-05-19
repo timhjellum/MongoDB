@@ -1,7 +1,7 @@
 {
-  "name": "complex-app",
+  "name": "MongoDB",
   "version": "1.0.0",
-  "description": "hey dude",
+  "description": "",
   "main": "db.js",
   "repository": {
     "type": "git",
